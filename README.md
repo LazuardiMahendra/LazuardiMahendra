@@ -19,7 +19,7 @@ Let's collaborate, innovate, and make magic happen!
 
 ## Hackerrank Profile
 ![HackerRank Rank](https://img.shields.io/badge/HackerRank-Rank-blue?style=for-the-badge&logo=hackerrank)
-Check out my HackerRank profile [here](https://www.hackerrank.com/LazuardiMahendra) for more details on my coding skills and achievements.
+<p>Check out my HackerRank profile [here](https://www.hackerrank.com/LazuardiMahendra) for more details on my coding skills and achievements.</p>
 
 <br>
 
