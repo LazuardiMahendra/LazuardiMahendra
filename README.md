@@ -14,7 +14,6 @@ Let's collaborate, innovate, and make magic happen!
 <p><img align="left" width="340" src="https://github-readme-stats.vercel.app/api/top-langs?username=LazuardiMahendra&show_icons=true&theme=tokyonight&locale=en&layout=compact&langs_count80&count_private=true&hide=html,css" alt="LazuardiMahendra" /></p>
 <p>&nbsp;<img align="center" width="450" src="https://github-readme-stats.vercel.app/api?username=LazuardiMahendra&show_icons=true&theme=tokyonight&locale=en" alt="LazuardiMahendra" /></p>
 
-
 <br>
 
 ## Hackerrank Profile
@@ -23,11 +22,11 @@ Let's collaborate, innovate, and make magic happen!
 
 <br>
 
-
 ## Medium Profile
 
 [![Medium](https://img.shields.io/badge/Medium-Follow-02b875?style=for-the-badge&logo=medium)](https://medium.com/@LazuardiMahendra)
- <br>
+ <br><br>
+
 
 ## Technologies I Use
 ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
