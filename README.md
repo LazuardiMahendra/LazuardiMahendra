@@ -17,6 +17,18 @@ Let's collaborate, innovate, and make magic happen!
 
 <br>
 
+## Hackerrank Profile
+![HackerRank Rank](https://img.shields.io/badge/HackerRank-Rank-blue?style=for-the-badge&logo=hackerrank)
+Check out my HackerRank profile [here](https://www.hackerrank.com/LazuardiMahendra) for more details on my coding skills and achievements.
+
+<br>
+
+
+## Medium Profile
+
+[![Medium](https://img.shields.io/badge/Medium-Follow-02b875?style=for-the-badge&logo=medium)](https://medium.com/@LazuardiMahendra)
+ <br>
+
 ## Technologies I Use
 ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
