@@ -11,5 +11,20 @@ You'll also find a collection of my mini projects on my portfolio site, each a t
 <br>
 Let's collaborate, innovate, and make magic happen!
 <br><br>
-<p><img align="left" width="340" src="https://github-readme-stats.vercel.app/api/top-langs?username=LazuardiMahendra&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="LazuardiMahendra" /></p>
+<p><img align="left" width="340" src="https://github-readme-stats.vercel.app/api/top-langs?username=LazuardiMahendra&show_icons=true&theme=tokyonight&locale=en&layout=compact&langs_count80&count_private=true&hide=html,css" alt="LazuardiMahendra" /></p>
 <p>&nbsp;<img align="center" width="450" src="https://github-readme-stats.vercel.app/api?username=LazuardiMahendra&show_icons=true&theme=tokyonight&locale=en" alt="LazuardiMahendra" /></p>
+
+
+<br>
+
+## Technologies I Use
+![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+
+
