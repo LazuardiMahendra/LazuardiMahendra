@@ -1,6 +1,7 @@
 <h1>Hi, I'm Lazuardi Mahendra 👋</h1
-<h2>Software Engineer | Android Devleoper 👋</h12
-                                
+<h2>Software Engineer | Android Devleoper 👋</h2
+
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LazuardiMahendra&label=Profile%20views&color=0e75b6&style=flat-square" alt="LazuardiMahendra" /> </p>
 
