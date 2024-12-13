@@ -1,5 +1,5 @@
-<h1>Hi, I'm Lazuardi Mahendra 👋</h1>
-<h2>Software Engineer | Android Devleoper</h2>
+<h1>Hi, I'm Lazuardi Mahendra 👋</h1
+<h3>Software Engineer | Android Devleoper</h3>
 
 <br>
 
